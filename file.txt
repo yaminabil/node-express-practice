@@ -1,0 +1,16 @@
+ 1 - client ---> server   
+ so both client and server  are devices (laptops , tablets , phones)  in the development the client is the browser that send requests to the server which is database  
+
+
+2- Node.js is a runtime environment for executing JavaScript outside of the browser!
+node.js = runtime environment + javaScript Library
+
+3- npm (node package manager) is a online repository of javaScript helps to install dependencies .
+
+4 - always run the command npm init to create json file that will contain some info about the project 
+
+5 - react is a open source javaScript library used  for developing   users interface 
+
+6- modules in node allow us to reuse code in Node app.
+In a Node application, every JavaScript file is a module!
+
